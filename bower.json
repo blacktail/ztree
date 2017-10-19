@@ -6,7 +6,7 @@
     "jquery": "*"
   },
   "main": [
-    "js/jquery.ztree.core-3.5.js",
+    "js/jquery.ztree.all-3.5.js",
     "css/zTreeStyle/zTreeStyle.css"
   ]
 }
